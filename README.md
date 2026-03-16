@@ -1,8 +1,5 @@
 # Overview
-EZPZ Interaction Toolkit can get you building genuine, independently usable, interactive prototypes without needing to write code. All you need to do is drag and drop! Built on top of Unity 3D, it is a collection of scripts and prefabricated objects that you can mix and match to suit your purposes.  
-
-Guided Worksheet: 
-* https://bit.ly/4rVf964
+Quick prototyping interaction toolkit intended for non coders or Unity beginners.
 
 Quick, 13 minute video guide below (12:44): 
 * https://youtu.be/GZrhy2qOsnE
